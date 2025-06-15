@@ -31,4 +31,4 @@ The recorded load time should be: Less than 3 seconds for optimal performance.
 ## Actual Results
 Average recorded load time of 12 seconds
 ## Status 
-Fail 
+FAIL
