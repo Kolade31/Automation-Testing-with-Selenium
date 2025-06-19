@@ -1,5 +1,5 @@
 ## Test Case 
-Retrieve Repository from User After Logging In
+Retrieve Repository from Github After Logging In
 ## Test Case ID
 TC-GL-002
 ## Description
