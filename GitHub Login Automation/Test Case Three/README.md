@@ -1,6 +1,6 @@
 # Test Case: Session Persistence Test
 ## Test Case ID
-TC-003
+TC-GL-003
 ## Description
 This test case verifies that a user remains logged into their GitHub account after closing and reopening the browser. The goal is to ensure that the session is properly persisted and that the user does not need to log in again immediately after a browser restart.
 ## Preconditions
@@ -45,6 +45,6 @@ This test case verifies that a user remains logged into their GitHub account aft
 - The test should be run in a clean environment to ensure no previous sessions interfere with the results.
 - Consider any browser settings that may affect session persistence, such as incognito mode or clearing cookies on exit.
 ## Actual Results
-
-Status
+After closing and reopening the browser, User was no longer logged in and the login prompt appeared indicating that there is no session persistence.
+## Status
 FAIL
