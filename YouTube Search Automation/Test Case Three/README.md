@@ -36,5 +36,6 @@ The browser session should be closed, and no residual data should remain.
 - Ensure that the test is run in a clean environment to avoid interference from previous sessions.
 - Consider any potential network issues that may affect loading times.
 ## Actual Results
+The user was able to navigate to Youtube and submit an invalid search query successfully, but the appropriate message was not displayed indicating that no results were found for the given query. Although the results sis not show any valid video suggestions
 ## Status
-Pass
+FAIL
